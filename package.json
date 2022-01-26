@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@schematics/angular": "^9.1.0",
-    "ngx-bootstrap": "^8.0.0"
-  }
-}
